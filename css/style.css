@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap');
-@import url('/css/utils.css');
+@import url('css/utils.css');
 /*Temel Ayarlar Başlangıç*/
 * {
     box-sizing: border-box;
@@ -90,7 +90,7 @@ img {
 .slider {
     position: relative;
     height: 100vh;
-    background-image: url('/img/bg-1.jpeg');
+    background-image: url('img/bg-1.jpeg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -282,7 +282,7 @@ img {
 .slider-blog {
     position: relative;
     height: 40vh;
-    background-image: url('/img/bg-2.jpeg');
+    background-image: url('img/bg-2.jpeg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
